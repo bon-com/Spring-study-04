@@ -1,0 +1,4 @@
+com\example\app\EchoController.class
+com\example\app\EchoForm.class
+com\example\app\WelcomeController.class
+com\example\app\utils\PropertyUtils.class
